@@ -1,0 +1,1 @@
+CHROMA_DB_PATH = "./data/chroma_db"

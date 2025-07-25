@@ -1,0 +1,10 @@
+PyPDF2
+langchain
+sentence-transformers
+pinecone
+huggingface
+chromadb
+Groq
+langchain_groq
+streamlit
+langchain_huggingface
